@@ -6,7 +6,7 @@ Datasource - https://www.kaggle.com/datasets/syedmubarak/netflix-dataset-latest-
  Objective
 To predict the success of movies and TV shows on Netflix based on various features.
 
- <img width="1030" alt="image" src="https://github.com/niharika2309/Predicitive_Analytics_on_Netflix/assets/85278943/c5193d85-9a38-4fba-bfef-6a3dc946caf0">
+
 
 <img width="1030" alt="image" src="https://github.com/niharika2309/Predicitive_Analytics_on_Netflix/assets/85278943/67074d3a-82c0-4ea4-a13d-50dab8b1eea8">
 
